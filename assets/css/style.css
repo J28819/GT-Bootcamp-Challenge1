@@ -41,7 +41,8 @@ body {
     margin-left: 25px;
 }
 
-a {
+/*Update Top links class*/
+.top-links a {
     color: #ffffff;
     text-decoration: none;
 }
@@ -50,7 +51,7 @@ p {
     font-size: 16px;
 }
 
-.hero {
+.main-pic {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
